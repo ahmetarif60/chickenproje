@@ -1,11 +1,10 @@
 <h1>Chıcken Proje</h1>
 
+<h2>Proje açıklama</h2>
 
-<h2>Proje Açıklama</h2>
+Bu proje Anasayfa, Ürünler, ve Hizmetler olmak üzere üç kısımdan oluşmaktadır.Projede HTML, CSS, ve SCSS teknolojiler kullanarak yapılan bir web sitedir.
 
-Bu proje Anasayfa,Ürünler ve Hizmetler olarak üç kısımdan oluşur. HTML CSS ve SCSS teknolojileri kullanark yapılan web sitesidir
-
-<h2>Projede Kullanılan Teknolojiler<</h2>
+<h2>Kullanılan Teknolojiler</h2>
 
 -HTML
 
@@ -13,6 +12,5 @@ Bu proje Anasayfa,Ürünler ve Hizmetler olarak üç kısımdan oluşur. HTML CS
 
 -SCSS
 
-<h1>Proje Gif</h1>
-
+<h2>Proje Gif</h2>
 <img src="/images/Udemig-Profil-1-Microsoft_-Edge-2023-10-03-20-19-58.gif"/>
